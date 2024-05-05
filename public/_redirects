@@ -1,0 +1,5 @@
+/login /index.html 200
+/home /index.html 200
+/auths /index.html 200
+/logout /index.html 200
+/logs /index.html 200
